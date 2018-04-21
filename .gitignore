@@ -1,6 +1,5 @@
 .git
 .vs
-ApiConsultaClima/.vs
-ApiConsultaClima/packages
-ApiConsultaClima/ApiConsultaClima/Constants
-ApiConsultaClima/ApiConsultaClima/obj
+packages
+ApiConsultaClima/Constants
+ApiConsultaClima/obj
